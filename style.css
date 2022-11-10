@@ -12,29 +12,49 @@ body h1{
     justify-content: center;
 }
 
+
 section h1{
-    color: white;
+    color:white;
     font-family: 'Bebas Neue', cursive;
     font-size: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
+    display: flex;
+    position: absolute;
+    left: 38%;
+    top: 250px;
 }
 
 div p{
-    color: white;
+    color:white;
     font-family: 'Bebas Neue', cursive;
     font-size: 30px;
     align-items: center;
     display: flex;
     position: absolute;
     left: 810px;
-    top: 480px;
+    top: 350px;
 }
 
 div img{
     display: flex;
     position: absolute;
     left: 40%;
+    top: 370px;
 
+}
+
+div p#vue{
+    display: flex;
+    position: absolute;
+    left: 810px;
+    top: 390px;
+}
+
+div p#like{
+    display: flex;
+    position: absolute;
+    left: 810px;
+    top: 430px;
 }
