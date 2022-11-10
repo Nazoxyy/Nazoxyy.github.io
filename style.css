@@ -10,6 +10,9 @@ body h1{
     display: flex;
     align-items: center;
     justify-content: center;
+    position: absolute;
+    left: 33%;
+    top: -70px;
 }
 
 
