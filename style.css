@@ -12,13 +12,24 @@ body h1{
     justify-content: center;
 }
 
-div h1{
-    color: white;
+section h1{
+    color:white;
     font-family: 'Bebas Neue', cursive;
     font-size: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+div p{
+    color:white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    left: 810px;
+    top: 480px;
 }
 
 div img{
