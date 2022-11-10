@@ -3,10 +3,27 @@ body{
     font-size: 50px;
 }
 
-h1{
+body h1{
     color: white;
     font-family: 'Bebas Neue', cursive;
+    font-size: 150px;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+div h1{
+    color:white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div img{
+    display: flex;
+    position: absolute;
+    left: 40%;
+
 }
